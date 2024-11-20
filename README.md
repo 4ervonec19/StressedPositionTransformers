@@ -21,4 +21,4 @@
 
 #### Ermine is watching you...
 
-![ermine](/StressedPositionTransformers/ermine_is_watching_you.jpg)
+![ermine](ermine_is_watching_you.jpg
