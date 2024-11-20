@@ -6,7 +6,7 @@
 
 Было обучены два трансформера из семейства BERT для классификации ударной позиции в слове и получены соответствующие файлы с реализциями подходов:
 
-* BERT ($accuracy approx 0.95$)
+* BERT ($accuracy \approx 0.95$)
     * [BERT_train](transformer_learn_BERT_notebook.ipynb)
     * [BERT_inference](transformer_learn_BERT_with_inference.ipynb)
  
