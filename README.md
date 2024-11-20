@@ -16,4 +16,4 @@
 
 Так же имеется файл с [логами](transformer_training_logs.png) обучения BERT. 
 
-Для ознакомления с логами обучения DaBERTa перейдите по ссылке [¡тык!].
+Для ознакомления с логами обучения DaBERTa перейдите по ссылке [¡тык!](https://wandb.ai/4ervonec19-bauman-moscow-state-technical-university/DaBERTa_Accents_GO/workspace?nw=nwuser4ervonec19).
